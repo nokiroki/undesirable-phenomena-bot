@@ -5,7 +5,7 @@ Telegram bot for medical usage
 
 |                      Telegram                       | GitHub |                           Vk                           |
 | :-------------------------------------------------: | :----: | :----------------------------------------------------: |
-| [darkblueberry_pie](https://t.me/darkblueberry_pie) | empty  | [Elena Yusupovskaya](https://vk.com/darkblueberry_pie) |
+| [darkblueberry_pie](https://t.me/darkblueberry_pie) | [darkblueberryPie](https://github.com/darkblueberryPie/)  | [Elena Yusupovskaya](https://vk.com/darkblueberry_pie) |
 
 
 
